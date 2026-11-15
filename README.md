@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="rahatnet-banner.png" width="100%" alt="RAHAT-NET Banner">
+</p>
 # RAHAT-NET
 ### Rule-Based Disaster Relief Resource Allocation & Coordination System
 
